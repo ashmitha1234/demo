@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 11 14:33:56 2024
-
-@author: ashmi
-"""
-
 a=int(input("Enter the first number : "))
 b=int(input("Enter the second number : "))
 c=int(input("Enter the third number : "))
